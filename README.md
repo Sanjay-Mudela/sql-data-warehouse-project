@@ -11,7 +11,7 @@ It is designed as a **portfolio-grade project** to showcase practical skills in 
 
 This project implements the **Medallion Architecture**, which structures data into three progressive layers for clarity, scalability, and performance.
 
-![Data Architecture](docs/data_architecture.png)
+### Data Architecture
 
 1. **🟤 Bronze Layer (Raw Layer)**  
    - Stores raw data directly from source systems (ERP & CRM).  
